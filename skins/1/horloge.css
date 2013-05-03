@@ -1,0 +1,76 @@
+<?php $page="style.php";/*require_once('../../db_config.inc.php');*/header('Content-Type: text/css'.''); ?>
+@charset "iso-8859-1";
+.class1 {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:30px;
+	height:30px;
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	color:#9C2837;
+	text-align:center;
+	padding-top:10px;
+}
+.class2 {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:2px;
+	height:2px;
+	font-size:2px;
+	background:#9C2837;
+}
+.tl {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+.relative {
+	position: relative;
+}
+.class3 {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:30px;
+	height:30px;
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	color:#9C2837;
+	text-align:center;
+	padding-top:10px;
+}
+.c30 {
+	top:0px;
+	left:0px;
+	height:30px;
+	width:30px;
+}
+.class_h {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:2px;
+	height:2px;
+	font-size:2px;
+	background:#9C2837;
+}
+.class_m {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:2px;
+	height:2px;
+	font-size:2px;
+	background:#9C2837;
+}
+.class_s {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:2px;
+	height:2px;
+	font-size:2px;
+	background:#FF0000;
+}
